@@ -4,7 +4,7 @@
 import re
 
 s = """Hello
-北京
+
 """
 
 # 只匹配ascii
