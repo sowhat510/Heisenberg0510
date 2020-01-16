@@ -7,7 +7,7 @@ s = """Hello
 北京
 """
 
-# 只匹配ascii字符
+# 只匹配ascii
 # regex = re.compile(r'\w+',flags=re.A)
 
 # 忽略字母大小写
